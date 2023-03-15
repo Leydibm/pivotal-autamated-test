@@ -1,2 +1,2 @@
-# pivotal-autamated-test
+# pivotal-automated-test
 Pivotal Tracker Autoamted Tests
